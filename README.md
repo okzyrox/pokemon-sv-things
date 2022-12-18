@@ -1,3 +1,4 @@
+`findings.md`
 # findings from the datamining
 
 (this information was gathered from a profiling log by using Ryujinx 1.1.476, which happens when the game thread is terminated)
